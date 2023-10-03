@@ -1,6 +1,19 @@
 # Dashboard
 Decision Support System Dashboard on the positioning of electric vehicle charging stations in Turkey
 
+Technologies I used in this project:
+-
+![mysql-logo](https://github.com/sudeguluzum/Dashboard-for-DSS/assets/128133604/1068d00d-7855-4139-bb2a-8b0481e750d7)
+![PHP-logo svg](https://github.com/sudeguluzum/Dashboard-for-DSS/assets/128133604/55abbf7d-7049-469f-89f5-2f5dbd97c385)
+![png-transparent-logo-html-html5](https://github.com/sudeguluzum/Dashboard-for-DSS/assets/128133604/0f5c3b99-dd3b-4d39-8067-43f7cfb1fd97)
+![CSS3_logo svg](https://github.com/sudeguluzum/Dashboard-for-DSS/assets/128133604/803bdda4-0e45-4b9d-987d-28a5e9eb5f5c)
+![JavaScript-logo](https://github.com/sudeguluzum/Dashboard-for-DSS/assets/128133604/16d9d343-fde7-4b32-97cb-cd9a9fdf5670)
+
+
+
+
+
+
 DATABASE DESIGN AND ER DIAGRAM
 -
 ![image](https://github.com/sudeguluzum/Dashboard-for-DSS/assets/128133604/4beea6ae-9449-460c-9343-814260bf2f5d)
